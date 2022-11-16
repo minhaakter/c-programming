@@ -1,0 +1,150 @@
+Some C programming problems:
+----------------------------------------
+----------------------------------------
+
+-> take two numbers as input and add them
+-> take two numbers as input (float type), divide first number by the second number and show the result
+-> findout fahrenheit to celsius, celsius to fahrenheit
+-> take input of height, width and length and findout volume of a box
+-> take length and width to find out area of a rectangle
+-> findout out square of a number
+-> take two numbers as input divide them and find out quotient and remainder 
+-> findout reverse of a 3 digit number without using loop
+-> findout the sum of digits of a number (2 digits or 3 digits)
+-> Swap two variables
+
+-> take a number as input and find if it is even or odd
+-> take a number as input and check if it is positive or negative
+-> Find factorial of a number
+-> GCD,LCM of two numbers
+-> check a year is leap year or not
+-> power of a number, square of a number
+-> calculate grade from given number
+
+-> separte the odd and even numbers from an array and put it in other arrays called odd and even
+-> separte the prime numbers from array
+-> print fibonacci series using array
+-> sum of number in fibonacci series until nth position 
+-> findout a number is Armstrong number or not  
+-> finout sum of the numbers in an array
+-> findout largest, smallest, average number in an array
+-> count even numbers or odd numbers in an array
+-> reverse of an array
+-> find prime numbers from 1 to n
+-> check a number is palindrom or not
+-> find decimal to octal, octal to decimal
+-> find nCr, nPr for given value of n & r
+-> copy elements of an array to another array
+-> practice printing patterns given at the end of this file.
+
+----------------------------------------------------------------
+-> Now using function, solve all the above problems (Important)
+----------------------------------------------------------------
+
+for example: 
+-> find factorial using a function
+-> Find the Length of a String
+-> reverse array using function
+-> find maximum or minimum value of an array
+-> Find Factorial of a Number Using Recursion
+-> check a string palindrome or not
+-> ASCII value of a character
+-> Concatenate two strings
+-> check an alphabet is vowel or consonant
+-> Convert upper case to lower case and lower case to upper case
+-> concatenate string without strcat()
+-> reverse a string
+
+-> findout exponential without power method
+-> do addition and subtraction operation of matrices
+-> do multiplication operation of matrices
+
+-> check inputted character is vowel or consonant
+-> findout number of total chaaracters in a string
+-> compare two strings (same or not) 
+-> use the functions strcpy(),strcmp(),stccat(),strncpy()
+-> arrays of strings 
+-> access each character of a string and print separately
+-> Caesar cipher encryption and decryption 
+
+
+-> Dynamic Memory Allocation, use of malloc(),calloc(),free(),realloc()
+-> find maximum or minimum value using pointer
+-> calculate sum of an array using a pointer of that array.
+
+-> How to initialize/declare structure, taking input and output.
+-> structure using pointer. create and assign value using pointers
+-> create a student information managment system using structure where you can add info, show info, update info, delete info
+
+
+----------------
+pattern printing
+----------------
+-> take input n from user, then print the following patterns:
+
+1) [n=5]
+*
+**
+***
+****
+*****
+
+2) [n=5]
+*****
+*****
+*****
+*****
+*****
+
+3) [n=5]
+
+  *
+ * *
+*   *
+ * *
+  *
+
+4)  [n=4]
+
+****
+***
+**
+*
+
+5) [n=3]
+
+  *
+ ***
+*****
+
+6) [n=5]
+
+    *
+   **
+  ***
+ ****
+*****
+
+7) [n=5]
+
+1
+12
+123
+1234
+12345
+
+
+
+8) [n=3]
+
+    1
+  2 1 2
+3 2 1 2 3
+
+
+
+
+
+
+
+

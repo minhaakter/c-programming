@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello World\n"); // string
+    printf("Hello World\n"); // It is a function. its printed to terminal "" that have inside in there
 
 return 0;
 }
